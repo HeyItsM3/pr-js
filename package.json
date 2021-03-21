@@ -1,0 +1,14 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto Profesional JS",
+  "main": "index.js",
+  "scripts": {
+    "start":  "live-server"
+  },
+  "author": "Aldo @HeyItsMe",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
